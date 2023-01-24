@@ -1,0 +1,6 @@
+name: Main
+version: '${project.version}'
+main: org.hero.Main
+depend:  [MeteoriteAPI]
+author: "MeteoritaPvP: 1100hero"
+description: Test Plugin for MeteoritePvP.
